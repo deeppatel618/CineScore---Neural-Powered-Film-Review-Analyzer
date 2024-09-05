@@ -1,4 +1,4 @@
-# Sentiment Analysis of Movie Reviews
+# CineScore: Neural-Powered Film Review Analyzer
 
 ## Project Overview
 This project involves the development of an advanced text classification model using Keras and Python to perform sentiment analysis on movie reviews. The primary objective is to accurately predict the sentiment (positive or negative) expressed in textual data by leveraging various natural language processing (NLP) techniques and neural network architectures.
